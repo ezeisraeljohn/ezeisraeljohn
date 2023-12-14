@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello, I'm Your Name! 👋
 
-<!--
-**ezeisraeljohn/ezeisraeljohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer interested in web technologies and open source.
 
-Here are some ideas to get you started:
+## Skills
+- HTML, CSS, JavaScript
+- React, Node.js
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Project 1](link-to-project-1): Short description.
+- [Project 2](link-to-project-2): Short description.
+
+## Connect with Me
+- [LinkedIn](linkedin.com/in/ezeisraeljohn)
+- [Twitter](twitter.com/ezeisraeljohn)
+
+![Israel Github Stat](https://github-readme-stats.vercel.app/api?username=ezeisraeljohn&hide=contribs,prs)
+
