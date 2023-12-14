@@ -8,7 +8,8 @@ I'm a passionate developer interested in web technologies and open source.
 - Git, GitHub
 
 ## Connect with Me
-- [LinkedIn](linkedin.com/in/ezeisraeljohn)
-- [Twitter](twitter.com/ezeisraeljohn)
+[![Twitter](https://img.shields.io/badge/Twitter-ezeisraeljohn-1da1f2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ezeisraeljohn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ezeisraeljohn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezeisraeljohn/)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeisraeljohn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
