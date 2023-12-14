@@ -14,6 +14,14 @@ I'm a passionate developer interested in web technologies and open source.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ezeisraeljohn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezeisraeljohn/)
 
 ## Github Stats
+<a href="https://github.com/ezeisraeljohn/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ezeisraeljohn" />
+</a>
+<a href="https://github.com/ezeisraeljohn/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezeisraeljohn&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeisraeljohn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## Top Language
