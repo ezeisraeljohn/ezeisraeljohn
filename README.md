@@ -21,4 +21,4 @@ I'm a passionate developer interested in web technologies and open source.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezeisraeljohn&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-[Anurag's GitHubstats(https://githubreadmestats.vercel.app/apiusername=ezeisraeljohn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_petage
+
