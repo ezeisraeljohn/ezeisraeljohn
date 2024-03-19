@@ -1,7 +1,7 @@
-# Hello, I'm Eze Israel John! 👋
+# Hello, I'm Eze Israel, John! 👋
 
 ## About Me
-I'm a passionate developer interested in web technologies and open source.
+I'm a backend developer with a passion for web technologies and open source. Proficient in C, Python, Node.js, and JavaScript, I specialize in building robust backend systems that power dynamic web applications. With a focus on scalability and performance optimization, I enjoy crafting efficient solutions and contributing to the open-source community. Let's build something great together!
 
 ## Skills
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
