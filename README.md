@@ -7,6 +7,8 @@ I'm a passionate developer interested in web technologies and open source.
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3.8-blue?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-Programming-blue?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
 
 
 ## Connect with Me
