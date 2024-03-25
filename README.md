@@ -24,4 +24,7 @@ I'm a backend developer with a passion for web technologies and open source. Pro
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezeisraeljohn&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+## Daily dev
+<a href="https://app.daily.dev/ezeisraeljohn"><img src="https://api.daily.dev/devcards/v2/MojWb4o03hHsXxFIjhxaG.png?type=default&r=dbg" width="356" alt="Eze Israel John's Dev Card"/></a>
+
 
