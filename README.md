@@ -4,7 +4,6 @@
 I'm a backend developer with a passion for web technologies and open source. Proficient in C, Python, Node.js, and JavaScript, I specialize in building robust backend systems that power dynamic web applications. With a focus on scalability and performance optimization, I enjoy crafting efficient solutions and contributing to the open-source community. Let's build something great together!
 
 ## Skills
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
