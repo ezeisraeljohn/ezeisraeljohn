@@ -1,7 +1,7 @@
 # Hello, I'm Eze Israel, John! 👋
 
 ## About Me
-I'm a backend developer with a passion for web technologies and open source. Proficient in C, Python, Node.js, and JavaScript, I specialize in building robust backend systems that power dynamic web applications. With a focus on scalability and performance optimization, I enjoy crafting efficient solutions and contributing to the open-source community. Let's build something great together!
+I'm a backend developer with a passion for web technologies and open source. Proficient in C, Python, Django, and JavaScript, I specialize in building robust backend systems that power dynamic web applications. With a focus on scalability and performance optimization, I enjoy crafting efficient solutions and contributing to the open-source community. Let's build something great together!
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
