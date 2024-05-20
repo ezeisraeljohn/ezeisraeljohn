@@ -8,9 +8,9 @@ I'm a backend developer with a passion for web technologies and open source. Pro
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3.8-blue?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-Programming-blue?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-JavaScript_runtime-green?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 
