@@ -14,8 +14,8 @@ I'm a backend developer with a passion for web technologies and open source. Pro
 
 
 ## Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-ezeisraeljohn-1da1f2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ezeisraeljohn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ezeisraeljohn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezeisraeljohn/)
+[LinkedIn](https://www.linkedin.com/in/ezeisraeljohn)
+[Twitter](https://twitter.com/ezeisraeljohn)
 
 ## Github Stats
 <a href="https://github.com/ezeisraeljohn/github-readme-stats">
